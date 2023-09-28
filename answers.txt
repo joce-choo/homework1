@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A remote repository is the code base that everyone can access and is based somewhere else (not on your local computer).
